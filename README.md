@@ -23,6 +23,6 @@ Live version: https://cryptopunk-avatar-generator.netlify.app/
 
 ## Credit
 
-Credit to @madewithjello from Figma community. He made the designs for facial attributes.
+Credit to @madewithjello from Figma community. He made the assets.
 
 Check out his Figma profile: https://www.figma.com/@madewithjello
