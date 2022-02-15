@@ -1,6 +1,6 @@
 # CryptoPunk Avatar Generator
 
-Simple CryptoPunk Avatar Generator created with ReactJS.
+Simple CryptoPunk Avatar Generator created with ReactJS. <br>
 Live version: https://cryptopunk-avatar-generator.netlify.app/
 
 
